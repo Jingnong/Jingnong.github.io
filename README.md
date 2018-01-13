@@ -1,8 +1,9 @@
-Jingnong's blog
+Jekyll Xixia
 ============
 
-* The template is forked from [github](https://github.com/zxixia/jekyll-xixia).
-* The original blog [Xixia's blog](http://xixia.info/).
+* Get it from [github](https://github.com/zxixia/jekyll-xixia).
+* See the [live demo](http://zxixia.github.io/jekyll-xixia/).
+* See it [in action on my own blog](http://xixia.info/).
 
 A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)
 (not to be confused with jekyll-bootstrap) that's easy to modify and very
