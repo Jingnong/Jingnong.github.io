@@ -20,3 +20,8 @@ permalink:        /posts/:title
 defaults:
   - values:
       layout: "default"
+
+sass:
+  sass_dir:          stylesheets
+  style:            :compressed
+
