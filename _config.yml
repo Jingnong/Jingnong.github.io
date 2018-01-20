@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Scribble"
-description:      "Such theme, very cool?"
+title:            "Jingnong's Blog"
+description:      "Learning to code"
 url:              https://jingnong.github.io # Site url, without a slash at the end.
 signoff:          "Jingnong" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
