@@ -35,5 +35,4 @@ Instruction as follows. Lorem ipsum dolor sit amet, consectetur adipisicing elit
 
 ## The end
 
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Problem? [Use GitHub Issues](https://github.com/muan/scribble).
+Like it? [Tell the author](http://twitter.com/muanchiou).<br/>
