@@ -2,4 +2,5 @@ _site/
 .sass-cache
 .ruby-version
 .lock
+.DS_Store
 myArchive/
